@@ -17,4 +17,4 @@ public class Pro {
 		System.out.printf("화씨온도 %2d는 섭시온도 %.1f", f, c);
 	}
 
-}./
+}
